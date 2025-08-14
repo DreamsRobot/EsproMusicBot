@@ -22,7 +22,7 @@ def private_panel(_):
             InlineKeyboardButton(text=_["S_B_4"], callback_data="settings_back_helper"),
         ],
         [
-            InlineKeyboardButton(text=_["D_S_1"], callback_data=""),
+            InlineKeyboardButton(text=_["S_B_9"], url=f"https://t.me/CloseFriendsCommunity),
         ],
         [
             InlineKeyboardButton(
