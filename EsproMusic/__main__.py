@@ -49,11 +49,11 @@ async def init():
     except:
         pass
     await Ritik.decorators()
-    LOGGER("EsproMusic").info("EsproMusicBot Started Successfully \n\n Yaha App ko nahi aana hai aapni hf jo bhej sakte hai @Esprosupport ")
+    LOGGER("EsproMusic").info("EsproMusicBot Started Successfully \n\n Dreams music started successfully ")
     await idle()
     await app.stop()
     await userbot.stop()
-    LOGGER("EsproMusic").info("Stopping Espro Music Bot...")
+    LOGGER("EsproMusic").info("Stopping Drreams Music Bot...")
 
 
 if __name__ == "__main__":
